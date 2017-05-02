@@ -25,3 +25,7 @@ feed:
 pagination:
   enabled: true
 fdroid-repo: https://f-droid.org/repo
+
+languages: ["en", "fr"]
+default_lang: "en"
+exclude_from_localization: ["css", "js", "assets"] 

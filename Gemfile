@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem "jekyll"
 
 group :jekyll_plugins do
+   gem "jekyll-polyglot"
    gem "jekyll-feed"
    gem "jekyll-include-cache"
    gem "jekyll-redirect-from"
